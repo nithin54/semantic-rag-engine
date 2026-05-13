@@ -1,4 +1,6 @@
-# Senior Gen AI Assessment: Semantic RAG & Vector Search
+# semantic-rag-engine
+
+## Senior Gen AI Assessment: Semantic RAG & Vector Search
 
 ## Overview
 This repository implements a local Retrieval-Augmented Generation (RAG) pipeline with two retrieval strategies:
