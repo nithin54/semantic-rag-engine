@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+numpy
+pytest
+flask
+flask-cors
+
